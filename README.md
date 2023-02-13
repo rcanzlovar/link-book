@@ -4,3 +4,4 @@ This is a repository that is fed by [his web app](https://link-book.vercel.app/?
 - [mast1c0re: Part 1 – Modifying PS2 game save files](https://mccaulay.co.uk/mast1c0re-part-1-modifying-ps2-game-save-files/)
 
 - [access text-davinci-03 model from shell](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently. - GitHub - TheR1D/shell_gpt: A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
+- [Jupyter Lab Desktop](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23) - We are pleased to announce a major update to JupyterLab Desktop which adds many new features with main focus on the user experience. JupyterLab Desktop is the cross-platform desktop application for…
