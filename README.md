@@ -1,1 +1,2 @@
 # link-book
+- [TZ environment variable saves system calls](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/) - How setting the TZ envronment var can save system resources
