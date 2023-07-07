@@ -8,3 +8,4 @@ This is a repository that is fed by this [web app](https://link-book.vercel.app/
 - [Releases · jupyterlab/jupyterlab-desktop · GitHub](https://github.com/jupyterlab/jupyterlab-desktop/releases) - JupyterLab desktop application, based on Electron. - Releases · jupyterlab/jupyterlab-desktop
 
 - [Why backlogs are harmful, why they never shrink, and what to do instead](https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html) - Do you remember your backlog ever shrinking? Of course you don’t. Backlogs never shrink.
+- [The AI Dividend - Schneier on Security](https://www.schneier.com/blog/archives/2023/07/the-ai-dividend.html)
